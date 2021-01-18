@@ -77,7 +77,7 @@ body {
 
 .features {
     text-align: center !important;
-    background: #f04747 !important;
+    background: #f68e8e !important;
     padding: 60px 50px !important;
     background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
     background-position: bottom !important;
@@ -138,7 +138,7 @@ body {
 
 .statistics .subtitle {
     font-size: 20px !important;
-    color: #f68e8e;
+    color: #f04747;
 }
 
 .card.statistic {
